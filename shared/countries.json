@@ -1,0 +1,2034 @@
+[
+  {
+    "code": "",
+    "name": "Abkhazia",
+    "region": "Asia",
+    "population": 244236,
+    "capital": "Sukhumi",
+    "flag": ""
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "region": "Asia",
+    "population": 43844000,
+    "capital": "Kabul",
+    "flag": "https://flags.restcountries.com/v5/w640/af.png"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "region": "Europe",
+    "population": 2335930,
+    "capital": "Tirana",
+    "flag": "https://flags.restcountries.com/v5/w640/al.png"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "region": "Africa",
+    "population": 47400000,
+    "capital": "Algiers",
+    "flag": "https://flags.restcountries.com/v5/w640/dz.png"
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "region": "Oceania",
+    "population": 43268,
+    "capital": "Pago Pago",
+    "flag": "https://flags.restcountries.com/v5/w640/as.png"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "region": "Europe",
+    "population": 90105,
+    "capital": "Andorra la Vella",
+    "flag": "https://flags.restcountries.com/v5/w640/ad.png"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "region": "Africa",
+    "population": 38778554,
+    "capital": "Luanda",
+    "flag": "https://flags.restcountries.com/v5/w640/ao.png"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "region": "Americas",
+    "population": 16010,
+    "capital": "The Valley",
+    "flag": "https://flags.restcountries.com/v5/w640/ai.png"
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "region": "Antarctic",
+    "population": 1300,
+    "capital": null,
+    "flag": "https://flags.restcountries.com/v5/w640/aq.png"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "region": "Americas",
+    "population": 106365,
+    "capital": "Saint John's",
+    "flag": "https://flags.restcountries.com/v5/w640/ag.png"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "region": "Americas",
+    "population": 46466688,
+    "capital": "Buenos Aires",
+    "flag": "https://flags.restcountries.com/v5/w640/ar.png"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "region": "Asia",
+    "population": 3103900,
+    "capital": "Yerevan",
+    "flag": "https://flags.restcountries.com/v5/w640/am.png"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "region": "Americas",
+    "population": 110625,
+    "capital": "Oranjestad",
+    "flag": "https://flags.restcountries.com/v5/w640/aw.png"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "region": "Oceania",
+    "population": 27921150,
+    "capital": "Canberra",
+    "flag": "https://flags.restcountries.com/v5/w640/au.png"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "region": "Europe",
+    "population": 9217573,
+    "capital": "Vienna",
+    "flag": "https://flags.restcountries.com/v5/w640/at.png"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "region": "Asia",
+    "population": 10273450,
+    "capital": "Baku",
+    "flag": "https://flags.restcountries.com/v5/w640/az.png"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "region": "Americas",
+    "population": 398165,
+    "capital": "Nassau",
+    "flag": "https://flags.restcountries.com/v5/w640/bs.png"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "region": "Asia",
+    "population": 1603260,
+    "capital": "Manama",
+    "flag": "https://flags.restcountries.com/v5/w640/bh.png"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "region": "Asia",
+    "population": 169828911,
+    "capital": "Dhaka",
+    "flag": "https://flags.restcountries.com/v5/w640/bd.png"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "region": "Americas",
+    "population": 261692,
+    "capital": "Bridgetown",
+    "flag": "https://flags.restcountries.com/v5/w640/bb.png"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "region": "Europe",
+    "population": 9056080,
+    "capital": "Minsk",
+    "flag": "https://flags.restcountries.com/v5/w640/by.png"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "region": "Europe",
+    "population": 11942772,
+    "capital": "Brussels",
+    "flag": "https://flags.restcountries.com/v5/w640/be.png"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "region": "Americas",
+    "population": 418982,
+    "capital": "Belmopan",
+    "flag": "https://flags.restcountries.com/v5/w640/bz.png"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "region": "Africa",
+    "population": 13551992,
+    "capital": "Porto-Novo",
+    "flag": "https://flags.restcountries.com/v5/w640/bj.png"
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "region": "Americas",
+    "population": 64055,
+    "capital": "Hamilton",
+    "flag": "https://flags.restcountries.com/v5/w640/bm.png"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "region": "Asia",
+    "population": 790718,
+    "capital": "Thimphu",
+    "flag": "https://flags.restcountries.com/v5/w640/bt.png"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "region": "Americas",
+    "population": 11365333,
+    "capital": "Sucre",
+    "flag": "https://flags.restcountries.com/v5/w640/bo.png"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "population": 3412000,
+    "capital": "Sarajevo",
+    "flag": "https://flags.restcountries.com/v5/w640/ba.png"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "region": "Africa",
+    "population": 2515633,
+    "capital": "Gaborone",
+    "flag": "https://flags.restcountries.com/v5/w640/bw.png"
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "region": "Antarctic",
+    "population": 0,
+    "capital": null,
+    "flag": "https://flags.restcountries.com/v5/w640/bv.png"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "region": "Americas",
+    "population": 214211951,
+    "capital": "Brasília",
+    "flag": "https://flags.restcountries.com/v5/w640/br.png"
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "region": "Africa",
+    "population": 2000,
+    "capital": "Diego Garcia",
+    "flag": "https://flags.restcountries.com/v5/w640/io.png"
+  },
+  {
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "region": "Americas",
+    "population": 38984,
+    "capital": "Road Town",
+    "flag": "https://flags.restcountries.com/v5/w640/vg.png"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "region": "Asia",
+    "population": 458600,
+    "capital": "Bandar Seri Begawan",
+    "flag": "https://flags.restcountries.com/v5/w640/bn.png"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "region": "Europe",
+    "population": 6423207,
+    "capital": "Sofia",
+    "flag": "https://flags.restcountries.com/v5/w640/bg.png"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "region": "Africa",
+    "population": 22489126,
+    "capital": "Ouagadougou",
+    "flag": "https://flags.restcountries.com/v5/w640/bf.png"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "region": "Africa",
+    "population": 12332788,
+    "capital": "Gitega",
+    "flag": "https://flags.restcountries.com/v5/w640/bi.png"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "region": "Africa",
+    "population": 491233,
+    "capital": "Praia",
+    "flag": "https://flags.restcountries.com/v5/w640/cv.png"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "region": "Asia",
+    "population": 17816143,
+    "capital": "Phnom Penh",
+    "flag": "https://flags.restcountries.com/v5/w640/kh.png"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "region": "Africa",
+    "population": 29442327,
+    "capital": "Yaoundé",
+    "flag": "https://flags.restcountries.com/v5/w640/cm.png"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "region": "Americas",
+    "population": 41798407,
+    "capital": "Ottawa",
+    "flag": "https://flags.restcountries.com/v5/w640/ca.png"
+  },
+  {
+    "code": "BQ",
+    "name": "Caribbean Netherlands",
+    "region": "Americas",
+    "population": 31980,
+    "capital": "Kralendijk",
+    "flag": "https://flags.restcountries.com/v5/w640/bq.png"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "region": "Americas",
+    "population": 90577,
+    "capital": "George Town",
+    "flag": "https://flags.restcountries.com/v5/w640/ky.png"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "region": "Africa",
+    "population": 5513282,
+    "capital": "Bangui",
+    "flag": "https://flags.restcountries.com/v5/w640/cf.png"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "region": "Africa",
+    "population": 20031602,
+    "capital": "N'Djamena",
+    "flag": "https://flags.restcountries.com/v5/w640/td.png"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "region": "Americas",
+    "population": 20150948,
+    "capital": "Santiago",
+    "flag": "https://flags.restcountries.com/v5/w640/cl.png"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "region": "Asia",
+    "population": 1404890000,
+    "capital": "Beijing",
+    "flag": "https://flags.restcountries.com/v5/w640/cn.png"
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "region": "Oceania",
+    "population": 1692,
+    "capital": "Flying Fish Cove",
+    "flag": "https://flags.restcountries.com/v5/w640/cx.png"
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "region": "Oceania",
+    "population": 593,
+    "capital": "West Island",
+    "flag": "https://flags.restcountries.com/v5/w640/cc.png"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "region": "Americas",
+    "population": 53399171,
+    "capital": "Bogotá",
+    "flag": "https://flags.restcountries.com/v5/w640/co.png"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "region": "Africa",
+    "population": 944388,
+    "capital": "Moroni",
+    "flag": "https://flags.restcountries.com/v5/w640/km.png"
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "region": "Africa",
+    "population": 6332961,
+    "capital": "Brazzaville",
+    "flag": "https://flags.restcountries.com/v5/w640/cg.png"
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "region": "Oceania",
+    "population": 15040,
+    "capital": "Avarua",
+    "flag": "https://flags.restcountries.com/v5/w640/ck.png"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "region": "Americas",
+    "population": 5160700,
+    "capital": "San José",
+    "flag": "https://flags.restcountries.com/v5/w640/cr.png"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "region": "Europe",
+    "population": 3874993,
+    "capital": "Zagreb",
+    "flag": "https://flags.restcountries.com/v5/w640/hr.png"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "region": "Americas",
+    "population": 9434593,
+    "capital": "Havana",
+    "flag": "https://flags.restcountries.com/v5/w640/cu.png"
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "region": "Americas",
+    "population": 155826,
+    "capital": "Willemstad",
+    "flag": "https://flags.restcountries.com/v5/w640/cw.png"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "region": "Europe",
+    "population": 983000,
+    "capital": "Nicosia",
+    "flag": "https://flags.restcountries.com/v5/w640/cy.png"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "region": "Europe",
+    "population": 10903655,
+    "capital": "Prague",
+    "flag": "https://flags.restcountries.com/v5/w640/cz.png"
+  },
+  {
+    "code": "CD",
+    "name": "DRC",
+    "region": "Africa",
+    "population": 116452000,
+    "capital": "Kinshasa",
+    "flag": "https://flags.restcountries.com/v5/w640/cd.png"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "region": "Europe",
+    "population": 6038638,
+    "capital": "Copenhagen",
+    "flag": "https://flags.restcountries.com/v5/w640/dk.png"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "region": "Africa",
+    "population": 1066809,
+    "capital": "Djibouti",
+    "flag": "https://flags.restcountries.com/v5/w640/dj.png"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "region": "Americas",
+    "population": 65431,
+    "capital": "Roseau",
+    "flag": "https://flags.restcountries.com/v5/w640/dm.png"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "region": "Americas",
+    "population": 11532151,
+    "capital": "Santo Domingo",
+    "flag": "https://flags.restcountries.com/v5/w640/do.png"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "region": "Americas",
+    "population": 18135478,
+    "capital": "Quito",
+    "flag": "https://flags.restcountries.com/v5/w640/ec.png"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "region": "Africa",
+    "population": 108613296,
+    "capital": "Cairo",
+    "flag": "https://flags.restcountries.com/v5/w640/eg.png"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "region": "Americas",
+    "population": 6029976,
+    "capital": "San Salvador",
+    "flag": "https://flags.restcountries.com/v5/w640/sv.png"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "region": "Africa",
+    "population": 1795834,
+    "capital": "Malabo",
+    "flag": "https://flags.restcountries.com/v5/w640/gq.png"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "region": "Africa",
+    "population": 3682669,
+    "capital": "Asmara",
+    "flag": "https://flags.restcountries.com/v5/w640/er.png"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "region": "Europe",
+    "population": 1360745,
+    "capital": "Tallinn",
+    "flag": "https://flags.restcountries.com/v5/w640/ee.png"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "region": "Africa",
+    "population": 1235549,
+    "capital": "Mbabane",
+    "flag": "https://flags.restcountries.com/v5/w640/sz.png"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "region": "Africa",
+    "population": 111652998,
+    "capital": "Addis Ababa",
+    "flag": "https://flags.restcountries.com/v5/w640/et.png"
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "region": "Americas",
+    "population": 3662,
+    "capital": "Stanley",
+    "flag": "https://flags.restcountries.com/v5/w640/fk.png"
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "region": "Europe",
+    "population": 56210,
+    "capital": "Tórshavn",
+    "flag": "https://flags.restcountries.com/v5/w640/fo.png"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "region": "Oceania",
+    "population": 902623,
+    "capital": "Suva",
+    "flag": "https://flags.restcountries.com/v5/w640/fj.png"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "region": "Europe",
+    "population": 5659324,
+    "capital": "Helsinki",
+    "flag": "https://flags.restcountries.com/v5/w640/fi.png"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "region": "Europe",
+    "population": 69081996,
+    "capital": "Paris",
+    "flag": "https://flags.restcountries.com/v5/w640/fr.png"
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "region": "Americas",
+    "population": 254541,
+    "capital": "Cayenne",
+    "flag": "https://flags.restcountries.com/v5/w640/gf.png"
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "region": "Oceania",
+    "population": 278786,
+    "capital": "Papeetē",
+    "flag": "https://flags.restcountries.com/v5/w640/pf.png"
+  },
+  {
+    "code": "TF",
+    "name": "French Southern and Antarctic Lands",
+    "region": "Antarctic",
+    "population": 400,
+    "capital": "Port-aux-Français",
+    "flag": "https://flags.restcountries.com/v5/w640/tf.png"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "region": "Africa",
+    "population": 2469296,
+    "capital": "Libreville",
+    "flag": "https://flags.restcountries.com/v5/w640/ga.png"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "region": "Africa",
+    "population": 2422712,
+    "capital": "Banjul",
+    "flag": "https://flags.restcountries.com/v5/w640/gm.png"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "region": "Asia",
+    "population": 3657000,
+    "capital": "Tbilisi",
+    "flag": "https://flags.restcountries.com/v5/w640/ge.png"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "region": "Europe",
+    "population": 83298787,
+    "capital": "Berlin",
+    "flag": "https://flags.restcountries.com/v5/w640/de.png"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "region": "Africa",
+    "population": 34378768,
+    "capital": "Accra",
+    "flag": "https://flags.restcountries.com/v5/w640/gh.png"
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "region": "Europe",
+    "population": 38196,
+    "capital": "Gibraltar",
+    "flag": "https://flags.restcountries.com/v5/w640/gi.png"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "region": "Europe",
+    "population": 10372335,
+    "capital": "Athens",
+    "flag": "https://flags.restcountries.com/v5/w640/gr.png"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "region": "Americas",
+    "population": 56945,
+    "capital": "Nuuk",
+    "flag": "https://flags.restcountries.com/v5/w640/gl.png"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "region": "Americas",
+    "population": 109021,
+    "capital": "St. George's",
+    "flag": "https://flags.restcountries.com/v5/w640/gd.png"
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "region": "Americas",
+    "population": 400132,
+    "capital": "Basse-Terre",
+    "flag": "https://flags.restcountries.com/v5/w640/gp.png"
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "region": "Oceania",
+    "population": 153836,
+    "capital": "Hagåtña",
+    "flag": "https://flags.restcountries.com/v5/w640/gu.png"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "region": "Americas",
+    "population": 18406359,
+    "capital": "Guatemala City",
+    "flag": "https://flags.restcountries.com/v5/w640/gt.png"
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "region": "Europe",
+    "population": 64781,
+    "capital": "St. Peter Port",
+    "flag": "https://flags.restcountries.com/v5/w640/gg.png"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "region": "Africa",
+    "population": 17521167,
+    "capital": "Conakry",
+    "flag": "https://flags.restcountries.com/v5/w640/gn.png"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "region": "Africa",
+    "population": 1890252,
+    "capital": "Bissau",
+    "flag": "https://flags.restcountries.com/v5/w640/gw.png"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "region": "Americas",
+    "population": 956044,
+    "capital": "Georgetown",
+    "flag": "https://flags.restcountries.com/v5/w640/gy.png"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "region": "Americas",
+    "population": 11867032,
+    "capital": "Port-au-Prince",
+    "flag": "https://flags.restcountries.com/v5/w640/ht.png"
+  },
+  {
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "region": "Antarctic",
+    "population": 0,
+    "capital": null,
+    "flag": "https://flags.restcountries.com/v5/w640/hm.png"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "region": "Americas",
+    "population": 10186738,
+    "capital": "Tegucigalpa",
+    "flag": "https://flags.restcountries.com/v5/w640/hn.png"
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "region": "Asia",
+    "population": 7498100,
+    "capital": "City of Victoria",
+    "flag": "https://flags.restcountries.com/v5/w640/hk.png"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "region": "Europe",
+    "population": 9488428,
+    "capital": "Budapest",
+    "flag": "https://flags.restcountries.com/v5/w640/hu.png"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "region": "Europe",
+    "population": 396500,
+    "capital": "Reykjavik",
+    "flag": "https://flags.restcountries.com/v5/w640/is.png"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "region": "Asia",
+    "population": 1429404000,
+    "capital": "New Delhi",
+    "flag": "https://flags.restcountries.com/v5/w640/in.png"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "region": "Asia",
+    "population": 288315089,
+    "capital": "Jakarta",
+    "flag": "https://flags.restcountries.com/v5/w640/id.png"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "region": "Asia",
+    "population": 87134000,
+    "capital": "Tehran",
+    "flag": "https://flags.restcountries.com/v5/w640/ir.png"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "region": "Asia",
+    "population": 46118793,
+    "capital": "Baghdad",
+    "flag": "https://flags.restcountries.com/v5/w640/iq.png"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "region": "Europe",
+    "population": 5525600,
+    "capital": "Dublin",
+    "flag": "https://flags.restcountries.com/v5/w640/ie.png"
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "region": "Europe",
+    "population": 84523,
+    "capital": "Douglas",
+    "flag": "https://flags.restcountries.com/v5/w640/im.png"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "region": "Asia",
+    "population": 10305000,
+    "capital": "Jerusalem",
+    "flag": "https://flags.restcountries.com/v5/w640/il.png"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "region": "Europe",
+    "population": 58943673,
+    "capital": "Rome",
+    "flag": "https://flags.restcountries.com/v5/w640/it.png"
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "region": "Africa",
+    "population": 33293101,
+    "capital": "Yamoussoukro",
+    "flag": "https://flags.restcountries.com/v5/w640/ci.png"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "region": "Americas",
+    "population": 2774538,
+    "capital": "Kingston",
+    "flag": "https://flags.restcountries.com/v5/w640/jm.png"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "region": "Asia",
+    "population": 122650000,
+    "capital": "Tokyo",
+    "flag": "https://flags.restcountries.com/v5/w640/jp.png"
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "region": "Europe",
+    "population": 104540,
+    "capital": "Saint Helier",
+    "flag": "https://flags.restcountries.com/v5/w640/je.png"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "region": "Asia",
+    "population": 11937000,
+    "capital": "Amman",
+    "flag": "https://flags.restcountries.com/v5/w640/jo.png"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "region": "Asia",
+    "population": 20618796,
+    "capital": "Astana",
+    "flag": "https://flags.restcountries.com/v5/w640/kz.png"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "region": "Africa",
+    "population": 54227015,
+    "capital": "Nairobi",
+    "flag": "https://flags.restcountries.com/v5/w640/ke.png"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "region": "Oceania",
+    "population": 120740,
+    "capital": "South Tarawa",
+    "flag": "https://flags.restcountries.com/v5/w640/ki.png"
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "region": "Europe",
+    "population": 1582322,
+    "capital": "Pristina",
+    "flag": "https://flags.restcountries.com/v5/w640/xk.png"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "region": "Asia",
+    "population": 4881254,
+    "capital": "Kuwait City",
+    "flag": "https://flags.restcountries.com/v5/w640/kw.png"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "region": "Asia",
+    "population": 7404300,
+    "capital": "Bishkek",
+    "flag": "https://flags.restcountries.com/v5/w640/kg.png"
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "region": "Asia",
+    "population": 7745000,
+    "capital": "Vientiane",
+    "flag": "https://flags.restcountries.com/v5/w640/la.png"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "region": "Europe",
+    "population": 1832100,
+    "capital": "Riga",
+    "flag": "https://flags.restcountries.com/v5/w640/lv.png"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "region": "Asia",
+    "population": 5895466,
+    "capital": "Beirut",
+    "flag": "https://flags.restcountries.com/v5/w640/lb.png"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "region": "Africa",
+    "population": 2116427,
+    "capital": "Maseru",
+    "flag": "https://flags.restcountries.com/v5/w640/ls.png"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "region": "Africa",
+    "population": 5248621,
+    "capital": "Monrovia",
+    "flag": "https://flags.restcountries.com/v5/w640/lr.png"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "region": "Africa",
+    "population": 7539852,
+    "capital": "Tripoli",
+    "flag": "https://flags.restcountries.com/v5/w640/ly.png"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "region": "Europe",
+    "population": 41228,
+    "capital": "Vaduz",
+    "flag": "https://flags.restcountries.com/v5/w640/li.png"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "region": "Europe",
+    "population": 2887761,
+    "capital": "Vilnius",
+    "flag": "https://flags.restcountries.com/v5/w640/lt.png"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "region": "Europe",
+    "population": 690959,
+    "capital": "Luxembourg",
+    "flag": "https://flags.restcountries.com/v5/w640/lu.png"
+  },
+  {
+    "code": "MO",
+    "name": "Macau",
+    "region": "Asia",
+    "population": 686500,
+    "capital": null,
+    "flag": "https://flags.restcountries.com/v5/w640/mo.png"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "region": "Africa",
+    "population": 32658977,
+    "capital": "Antananarivo",
+    "flag": "https://flags.restcountries.com/v5/w640/mg.png"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "region": "Africa",
+    "population": 21201635,
+    "capital": "Lilongwe",
+    "flag": "https://flags.restcountries.com/v5/w640/mw.png"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "region": "Asia",
+    "population": 34389400,
+    "capital": "Kuala Lumpur",
+    "flag": "https://flags.restcountries.com/v5/w640/my.png"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "region": "Asia",
+    "population": 515132,
+    "capital": "Malé",
+    "flag": "https://flags.restcountries.com/v5/w640/mv.png"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "region": "Africa",
+    "population": 23929000,
+    "capital": "Bamako",
+    "flag": "https://flags.restcountries.com/v5/w640/ml.png"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "region": "Europe",
+    "population": 588254,
+    "capital": "Valletta",
+    "flag": "https://flags.restcountries.com/v5/w640/mt.png"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "region": "Oceania",
+    "population": 37548,
+    "capital": "Majuro",
+    "flag": "https://flags.restcountries.com/v5/w640/mh.png"
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "region": "Americas",
+    "population": 378243,
+    "capital": "Fort-de-France",
+    "flag": "https://flags.restcountries.com/v5/w640/mq.png"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "region": "Africa",
+    "population": 4927532,
+    "capital": "Nouakchott",
+    "flag": "https://flags.restcountries.com/v5/w640/mr.png"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "region": "Africa",
+    "population": 1240316,
+    "capital": "Port Louis",
+    "flag": "https://flags.restcountries.com/v5/w640/mu.png"
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "region": "Africa",
+    "population": 226915,
+    "capital": "Mamoudzou",
+    "flag": "https://flags.restcountries.com/v5/w640/yt.png"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "region": "Americas",
+    "population": 131231919,
+    "capital": "Mexico City",
+    "flag": "https://flags.restcountries.com/v5/w640/mx.png"
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia",
+    "region": "Oceania",
+    "population": 75817,
+    "capital": "Palikir",
+    "flag": "https://flags.restcountries.com/v5/w640/fm.png"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "region": "Europe",
+    "population": 2365600,
+    "capital": "Chișinău",
+    "flag": "https://flags.restcountries.com/v5/w640/md.png"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "region": "Europe",
+    "population": 38857,
+    "capital": "Monaco",
+    "flag": "https://flags.restcountries.com/v5/w640/mc.png"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "region": "Asia",
+    "population": 3591120,
+    "capital": "Ulan Bator",
+    "flag": "https://flags.restcountries.com/v5/w640/mn.png"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "region": "Europe",
+    "population": 622902,
+    "capital": "Podgorica",
+    "flag": "https://flags.restcountries.com/v5/w640/me.png"
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "region": "Americas",
+    "population": 4386,
+    "capital": "Plymouth",
+    "flag": "https://flags.restcountries.com/v5/w640/ms.png"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "region": "Africa",
+    "population": 37254695,
+    "capital": "Rabat",
+    "flag": "https://flags.restcountries.com/v5/w640/ma.png"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "region": "Africa",
+    "population": 34958973,
+    "capital": "Maputo",
+    "flag": "https://flags.restcountries.com/v5/w640/mz.png"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "region": "Asia",
+    "population": 51375327,
+    "capital": "Naypyidaw",
+    "flag": "https://flags.restcountries.com/v5/w640/mm.png"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "region": "Africa",
+    "population": 3022401,
+    "capital": "Windhoek",
+    "flag": "https://flags.restcountries.com/v5/w640/na.png"
+  },
+  {
+    "code": "NR",
+    "name": "Naoero",
+    "region": "Oceania",
+    "population": 11680,
+    "capital": "Yaren",
+    "flag": "https://flags.restcountries.com/v5/w640/nr.png"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "region": "Asia",
+    "population": 30034040,
+    "capital": "Kathmandu",
+    "flag": "https://flags.restcountries.com/v5/w640/np.png"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "region": "Europe",
+    "population": 18171612,
+    "capital": "Amsterdam",
+    "flag": "https://flags.restcountries.com/v5/w640/nl.png"
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "region": "Oceania",
+    "population": 264596,
+    "capital": "Nouméa",
+    "flag": "https://flags.restcountries.com/v5/w640/nc.png"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "region": "Oceania",
+    "population": 4993923,
+    "capital": "Wellington",
+    "flag": "https://flags.restcountries.com/v5/w640/nz.png"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "region": "Americas",
+    "population": 6874748,
+    "capital": "Managua",
+    "flag": "https://flags.restcountries.com/v5/w640/ni.png"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "region": "Africa",
+    "population": 27522750,
+    "capital": "Niamey",
+    "flag": "https://flags.restcountries.com/v5/w640/ne.png"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "region": "Africa",
+    "population": 223800000,
+    "capital": "Abuja",
+    "flag": "https://flags.restcountries.com/v5/w640/ng.png"
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "region": "Oceania",
+    "population": 1681,
+    "capital": "Alofi",
+    "flag": "https://flags.restcountries.com/v5/w640/nu.png"
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "region": "Oceania",
+    "population": 2188,
+    "capital": "Kingston",
+    "flag": "https://flags.restcountries.com/v5/w640/nf.png"
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "region": "Asia",
+    "population": 25950000,
+    "capital": "Pyongyang",
+    "flag": "https://flags.restcountries.com/v5/w640/kp.png"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "region": "Europe",
+    "population": 1836713,
+    "capital": "Skopje",
+    "flag": "https://flags.restcountries.com/v5/w640/mk.png"
+  },
+  {
+    "code": "",
+    "name": "Northern Cyprus",
+    "region": "Europe",
+    "population": 382836,
+    "capital": "North Nicosia",
+    "flag": ""
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "region": "Oceania",
+    "population": 46078,
+    "capital": "Saipan",
+    "flag": "https://flags.restcountries.com/v5/w640/mp.png"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "region": "Europe",
+    "population": 5636904,
+    "capital": "Oslo",
+    "flag": "https://flags.restcountries.com/v5/w640/no.png"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "region": "Asia",
+    "population": 5398645,
+    "capital": "Muscat",
+    "flag": "https://flags.restcountries.com/v5/w640/om.png"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "region": "Asia",
+    "population": 241499431,
+    "capital": "Islamabad",
+    "flag": "https://flags.restcountries.com/v5/w640/pk.png"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "region": "Oceania",
+    "population": 16733,
+    "capital": "Ngerulmud",
+    "flag": "https://flags.restcountries.com/v5/w640/pw.png"
+  },
+  {
+    "code": "PS",
+    "name": "Palestine",
+    "region": "Asia",
+    "population": 5557096,
+    "capital": "Ramallah",
+    "flag": "https://flags.restcountries.com/v5/w640/ps.png"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "region": "Americas",
+    "population": 4064780,
+    "capital": "Panama City",
+    "flag": "https://flags.restcountries.com/v5/w640/pa.png"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "region": "Oceania",
+    "population": 11781559,
+    "capital": "Port Moresby",
+    "flag": "https://flags.restcountries.com/v5/w640/pg.png"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "region": "Americas",
+    "population": 6109644,
+    "capital": "Asunción",
+    "flag": "https://flags.restcountries.com/v5/w640/py.png"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "region": "Americas",
+    "population": 34157732,
+    "capital": "Lima",
+    "flag": "https://flags.restcountries.com/v5/w640/pe.png"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "region": "Asia",
+    "population": 114849400,
+    "capital": "Manila",
+    "flag": "https://flags.restcountries.com/v5/w640/ph.png"
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn Islands",
+    "region": "Oceania",
+    "population": 35,
+    "capital": "Adamstown",
+    "flag": "https://flags.restcountries.com/v5/w640/pn.png"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "region": "Europe",
+    "population": 37232000,
+    "capital": "Warsaw",
+    "flag": "https://flags.restcountries.com/v5/w640/pl.png"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "region": "Europe",
+    "population": 11424031,
+    "capital": "Lisbon",
+    "flag": "https://flags.restcountries.com/v5/w640/pt.png"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "region": "Americas",
+    "population": 3184195,
+    "capital": "San Juan",
+    "flag": "https://flags.restcountries.com/v5/w640/pr.png"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "region": "Asia",
+    "population": 3370611,
+    "capital": "Doha",
+    "flag": "https://flags.restcountries.com/v5/w640/qa.png"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "region": "Europe",
+    "population": 19041322,
+    "capital": "Bucharest",
+    "flag": "https://flags.restcountries.com/v5/w640/ro.png"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "region": "Europe",
+    "population": 146028325,
+    "capital": "Moscow",
+    "flag": "https://flags.restcountries.com/v5/w640/ru.png"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "region": "Africa",
+    "population": 14418145,
+    "capital": "Kigali",
+    "flag": "https://flags.restcountries.com/v5/w640/rw.png"
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "region": "Africa",
+    "population": 840974,
+    "capital": "Saint-Denis",
+    "flag": "https://flags.restcountries.com/v5/w640/re.png"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "region": "Americas",
+    "population": 4255,
+    "capital": "Gustavia",
+    "flag": "https://flags.restcountries.com/v5/w640/bl.png"
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region": "Africa",
+    "population": 53192,
+    "capital": "Jamestown",
+    "flag": "https://flags.restcountries.com/v5/w640/sh.png"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "region": "Americas",
+    "population": 54338,
+    "capital": "Basseterre",
+    "flag": "https://flags.restcountries.com/v5/w640/kn.png"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "region": "Americas",
+    "population": 184100,
+    "capital": "Castries",
+    "flag": "https://flags.restcountries.com/v5/w640/lc.png"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin",
+    "region": "Americas",
+    "population": 38659,
+    "capital": "Marigot",
+    "flag": "https://flags.restcountries.com/v5/w640/mf.png"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "region": "Americas",
+    "population": 5819,
+    "capital": "Saint-Pierre",
+    "flag": "https://flags.restcountries.com/v5/w640/pm.png"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "population": 109296,
+    "capital": "Kingstown",
+    "flag": "https://flags.restcountries.com/v5/w640/vc.png"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "region": "Oceania",
+    "population": 205557,
+    "capital": "Apia",
+    "flag": "https://flags.restcountries.com/v5/w640/ws.png"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "region": "Europe",
+    "population": 34172,
+    "capital": "City of San Marino",
+    "flag": "https://flags.restcountries.com/v5/w640/sm.png"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "region": "Asia",
+    "population": 35325004,
+    "capital": "Riyadh",
+    "flag": "https://flags.restcountries.com/v5/w640/sa.png"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "region": "Africa",
+    "population": 19575061,
+    "capital": "Dakar",
+    "flag": "https://flags.restcountries.com/v5/w640/sn.png"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "region": "Europe",
+    "population": 6532019,
+    "capital": "Belgrade",
+    "flag": "https://flags.restcountries.com/v5/w640/rs.png"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "region": "Africa",
+    "population": 123565,
+    "capital": "Victoria",
+    "flag": "https://flags.restcountries.com/v5/w640/sc.png"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "region": "Africa",
+    "population": 8460512,
+    "capital": "Freetown",
+    "flag": "https://flags.restcountries.com/v5/w640/sl.png"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "region": "Asia",
+    "population": 6208500,
+    "capital": "Singapore",
+    "flag": "https://flags.restcountries.com/v5/w640/sg.png"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "region": "Americas",
+    "population": 58477,
+    "capital": "Philipsburg",
+    "flag": "https://flags.restcountries.com/v5/w640/sx.png"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "region": "Europe",
+    "population": 5403009,
+    "capital": "Bratislava",
+    "flag": "https://flags.restcountries.com/v5/w640/sk.png"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "region": "Europe",
+    "population": 2136385,
+    "capital": "Ljubljana",
+    "flag": "https://flags.restcountries.com/v5/w640/si.png"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "region": "Oceania",
+    "population": 828857,
+    "capital": "Honiara",
+    "flag": "https://flags.restcountries.com/v5/w640/sb.png"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "region": "Africa",
+    "population": 20305907,
+    "capital": "Mogadishu",
+    "flag": "https://flags.restcountries.com/v5/w640/so.png"
+  },
+  {
+    "code": "",
+    "name": "Somaliland",
+    "region": "Africa",
+    "population": 4914100,
+    "capital": "Hargeisa",
+    "flag": ""
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "region": "Africa",
+    "population": 63015904,
+    "capital": "Pretoria",
+    "flag": "https://flags.restcountries.com/v5/w640/za.png"
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia",
+    "region": "Antarctic",
+    "population": 32,
+    "capital": "King Edward Point",
+    "flag": "https://flags.restcountries.com/v5/w640/gs.png"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "region": "Asia",
+    "population": 51106229,
+    "capital": "Seoul",
+    "flag": "https://flags.restcountries.com/v5/w640/kr.png"
+  },
+  {
+    "code": "",
+    "name": "South Ossetia",
+    "region": "Asia",
+    "population": 56520,
+    "capital": "Tskhinvali",
+    "flag": ""
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "region": "Africa",
+    "population": 12703714,
+    "capital": "Juba",
+    "flag": "https://flags.restcountries.com/v5/w640/ss.png"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "region": "Europe",
+    "population": 49801559,
+    "capital": "Madrid",
+    "flag": "https://flags.restcountries.com/v5/w640/es.png"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "region": "Asia",
+    "population": 21756000,
+    "capital": "Sri Jayawardenepura Kotte",
+    "flag": "https://flags.restcountries.com/v5/w640/lk.png"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "region": "Africa",
+    "population": 53282719,
+    "capital": "Khartoum",
+    "flag": "https://flags.restcountries.com/v5/w640/sd.png"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "region": "Americas",
+    "population": 616500,
+    "capital": "Paramaribo",
+    "flag": "https://flags.restcountries.com/v5/w640/sr.png"
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "region": "Europe",
+    "population": 2562,
+    "capital": "Longyearbyen",
+    "flag": "https://flags.restcountries.com/v5/w640/sj.png"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "region": "Europe",
+    "population": 10621103,
+    "capital": "Stockholm",
+    "flag": "https://flags.restcountries.com/v5/w640/se.png"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "region": "Europe",
+    "population": 9154896,
+    "capital": "Bern",
+    "flag": "https://flags.restcountries.com/v5/w640/ch.png"
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "region": "Asia",
+    "population": 26472497,
+    "capital": "Damascus",
+    "flag": "https://flags.restcountries.com/v5/w640/sy.png"
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "region": "Africa",
+    "population": 220372,
+    "capital": "São Tomé",
+    "flag": "https://flags.restcountries.com/v5/w640/st.png"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "region": "Asia",
+    "population": 23224721,
+    "capital": "Taipei",
+    "flag": "https://flags.restcountries.com/v5/w640/tw.png"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "region": "Asia",
+    "population": 10721000,
+    "capital": "Dushanbe",
+    "flag": "https://flags.restcountries.com/v5/w640/tj.png"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "region": "Africa",
+    "population": 70038850,
+    "capital": "Dodoma",
+    "flag": "https://flags.restcountries.com/v5/w640/tz.png"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "region": "Asia",
+    "population": 70250751,
+    "capital": "Bangkok",
+    "flag": "https://flags.restcountries.com/v5/w640/th.png"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "region": "Asia",
+    "population": 1409452,
+    "capital": "Dili",
+    "flag": "https://flags.restcountries.com/v5/w640/tl.png"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "region": "Africa",
+    "population": 8095498,
+    "capital": "Lomé",
+    "flag": "https://flags.restcountries.com/v5/w640/tg.png"
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "region": "Oceania",
+    "population": 1411,
+    "capital": "Fakaofo",
+    "flag": "https://flags.restcountries.com/v5/w640/tk.png"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "region": "Oceania",
+    "population": 100179,
+    "capital": "Nuku'alofa",
+    "flag": "https://flags.restcountries.com/v5/w640/to.png"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "region": "Americas",
+    "population": 1512779,
+    "capital": "Port of Spain",
+    "flag": "https://flags.restcountries.com/v5/w640/tt.png"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "region": "Africa",
+    "population": 11992843,
+    "capital": "Tunis",
+    "flag": "https://flags.restcountries.com/v5/w640/tn.png"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "region": "Asia",
+    "population": 86092168,
+    "capital": "Ankara",
+    "flag": "https://flags.restcountries.com/v5/w640/tr.png"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "region": "Asia",
+    "population": 7057841,
+    "capital": "Ashgabat",
+    "flag": "https://flags.restcountries.com/v5/w640/tm.png"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "region": "Americas",
+    "population": 50828,
+    "capital": "Cockburn Town",
+    "flag": "https://flags.restcountries.com/v5/w640/tc.png"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "region": "Oceania",
+    "population": 10643,
+    "capital": "Funafuti",
+    "flag": "https://flags.restcountries.com/v5/w640/tv.png"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "region": "Africa",
+    "population": 45905417,
+    "capital": "Kampala",
+    "flag": "https://flags.restcountries.com/v5/w640/ug.png"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "region": "Europe",
+    "population": 28700000,
+    "capital": "Kyiv",
+    "flag": "https://flags.restcountries.com/v5/w640/ua.png"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "region": "Asia",
+    "population": 11027129,
+    "capital": "Abu Dhabi",
+    "flag": "https://flags.restcountries.com/v5/w640/ae.png"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "region": "Europe",
+    "population": 66912637,
+    "capital": "London",
+    "flag": "https://flags.restcountries.com/v5/w640/gb.png"
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "region": "Americas",
+    "population": 341784857,
+    "capital": "Washington, D.C.",
+    "flag": "https://flags.restcountries.com/v5/w640/us.png"
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "region": "Americas",
+    "population": 300,
+    "capital": null,
+    "flag": "https://flags.restcountries.com/v5/w640/um.png"
+  },
+  {
+    "code": "VI",
+    "name": "United States Virgin Islands",
+    "region": "Americas",
+    "population": 87146,
+    "capital": "Charlotte Amalie",
+    "flag": "https://flags.restcountries.com/v5/w640/vi.png"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "region": "Americas",
+    "population": 3480601,
+    "capital": "Montevideo",
+    "flag": "https://flags.restcountries.com/v5/w640/uy.png"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "region": "Asia",
+    "population": 39047321,
+    "capital": "Tashkent",
+    "flag": "https://flags.restcountries.com/v5/w640/uz.png"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "region": "Oceania",
+    "population": 321409,
+    "capital": "Port Vila",
+    "flag": "https://flags.restcountries.com/v5/w640/vu.png"
+  },
+  {
+    "code": "VA",
+    "name": "Vatican City",
+    "region": "Europe",
+    "population": 882,
+    "capital": "Vatican City",
+    "flag": "https://flags.restcountries.com/v5/w640/va.png"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "region": "Americas",
+    "population": 28633711,
+    "capital": "Caracas",
+    "flag": "https://flags.restcountries.com/v5/w640/ve.png"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "region": "Asia",
+    "population": 102300000,
+    "capital": "Hanoi",
+    "flag": "https://flags.restcountries.com/v5/w640/vn.png"
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "region": "Oceania",
+    "population": 11151,
+    "capital": "Mata-Utu",
+    "flag": "https://flags.restcountries.com/v5/w640/wf.png"
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "region": "Africa",
+    "population": 510713,
+    "capital": "El Aaiún",
+    "flag": "https://flags.restcountries.com/v5/w640/eh.png"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "region": "Asia",
+    "population": 32684503,
+    "capital": "Sana'a",
+    "flag": "https://flags.restcountries.com/v5/w640/ye.png"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "region": "Africa",
+    "population": 23003214,
+    "capital": "Lusaka",
+    "flag": "https://flags.restcountries.com/v5/w640/zm.png"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "region": "Africa",
+    "population": 16175966,
+    "capital": "Harare",
+    "flag": "https://flags.restcountries.com/v5/w640/zw.png"
+  },
+  {
+    "code": "AX",
+    "name": "Åland Islands",
+    "region": "Europe",
+    "population": 30654,
+    "capital": "Mariehamn",
+    "flag": "https://flags.restcountries.com/v5/w640/ax.png"
+  }
+]
