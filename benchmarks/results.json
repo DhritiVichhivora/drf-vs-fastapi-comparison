@@ -1,0 +1,102 @@
+{
+  "settings": {
+    "users": 50,
+    "duration_seconds": 30,
+    "runs_per_setup": 3
+  },
+  "results": {
+    "FastAPI (uvicorn)": {
+      "runs": [
+        {
+          "requests": 21213,
+          "failures": 0,
+          "rps": 754.6,
+          "median_ms": 59.0,
+          "p95_ms": 84.0
+        },
+        {
+          "requests": 22193,
+          "failures": 0,
+          "rps": 761.7,
+          "median_ms": 59.0,
+          "p95_ms": 84.0
+        },
+        {
+          "requests": 22542,
+          "failures": 0,
+          "rps": 770.2,
+          "median_ms": 59.0,
+          "p95_ms": 83.0
+        }
+      ],
+      "average": {
+        "rps": 762.2,
+        "median_ms": 59.0,
+        "p95_ms": 83.7,
+        "failures": 0
+      }
+    },
+    "DRF (uvicorn)": {
+      "runs": [
+        {
+          "requests": 3135,
+          "failures": 0,
+          "rps": 111.4,
+          "median_ms": 430.0,
+          "p95_ms": 500.0
+        },
+        {
+          "requests": 3135,
+          "failures": 0,
+          "rps": 111.3,
+          "median_ms": 430.0,
+          "p95_ms": 500.0
+        },
+        {
+          "requests": 3092,
+          "failures": 0,
+          "rps": 109.7,
+          "median_ms": 440.0,
+          "p95_ms": 510.0
+        }
+      ],
+      "average": {
+        "rps": 110.8,
+        "median_ms": 433.3,
+        "p95_ms": 503.3,
+        "failures": 0
+      }
+    },
+    "DRF (waitress)": {
+      "runs": [
+        {
+          "requests": 11156,
+          "failures": 0,
+          "rps": 397.5,
+          "median_ms": 120.0,
+          "p95_ms": 160.0
+        },
+        {
+          "requests": 12074,
+          "failures": 0,
+          "rps": 415.0,
+          "median_ms": 110.0,
+          "p95_ms": 150.0
+        },
+        {
+          "requests": 11064,
+          "failures": 0,
+          "rps": 365.4,
+          "median_ms": 110.0,
+          "p95_ms": 150.0
+        }
+      ],
+      "average": {
+        "rps": 392.6,
+        "median_ms": 113.3,
+        "p95_ms": 153.3,
+        "failures": 0
+      }
+    }
+  }
+}
