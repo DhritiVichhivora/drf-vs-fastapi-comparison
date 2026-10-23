@@ -1,13 +1,5 @@
 [
   {
-    "code": "",
-    "name": "Abkhazia",
-    "region": "Asia",
-    "population": 244236,
-    "capital": "Sukhumi",
-    "flag": ""
-  },
-  {
     "code": "AF",
     "name": "Afghanistan",
     "region": "Asia",
@@ -1320,14 +1312,6 @@
     "flag": "https://flags.restcountries.com/v5/w640/mk.png"
   },
   {
-    "code": "",
-    "name": "Northern Cyprus",
-    "region": "Europe",
-    "population": 382836,
-    "capital": "North Nicosia",
-    "flag": ""
-  },
-  {
     "code": "MP",
     "name": "Northern Mariana Islands",
     "region": "Oceania",
@@ -1648,14 +1632,6 @@
     "flag": "https://flags.restcountries.com/v5/w640/so.png"
   },
   {
-    "code": "",
-    "name": "Somaliland",
-    "region": "Africa",
-    "population": 4914100,
-    "capital": "Hargeisa",
-    "flag": ""
-  },
-  {
     "code": "ZA",
     "name": "South Africa",
     "region": "Africa",
@@ -1678,14 +1654,6 @@
     "population": 51106229,
     "capital": "Seoul",
     "flag": "https://flags.restcountries.com/v5/w640/kr.png"
-  },
-  {
-    "code": "",
-    "name": "South Ossetia",
-    "region": "Asia",
-    "population": 56520,
-    "capital": "Tskhinvali",
-    "flag": ""
   },
   {
     "code": "SS",

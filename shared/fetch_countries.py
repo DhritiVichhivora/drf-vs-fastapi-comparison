@@ -27,6 +27,8 @@ while True:
 
     # Flatten into the simple shape both of our APIs will use
     for c in data["objects"]:
+        if not c["codes"].get("alpha_2"):
+            continue  # skip territories without an ISO code (e.g. Somaliland)
         capitals = c.get("capitals") or []
         countries.append({
             "code": c["codes"]["alpha_2"],
