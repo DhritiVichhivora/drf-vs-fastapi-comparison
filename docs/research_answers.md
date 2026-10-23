@@ -6,11 +6,9 @@ In our project, we used normal `def` functions, so we did not implement asynchro
 
 ## Question 2: How does each framework validate data?
 
-FastAPI uses Pydantic models with Python type hints and rules such as `Field(ge=0)` to validate incoming data automatically. The same model also feeds the automatic `/docs` page. Django REST Framework (DRF) uses serializers with fields such as `IntegerField(min_value=0)`, and the view calls `is_valid()` to check the data.
+FastAPI uses Pydantic models and Python type hints to validate incoming data automatically, with constraints such as Field(ge=0). These models also generate the interactive /docs page. In contrast, Django REST Framework (DRF) uses serializers with fields such as IntegerField(min_value=0), where the view explicitly calls is_valid() to validate the input.
 
-In our project, both frameworks used the same validation rules: the country code must contain two capital letters, the name must have at least two characters, and the population must be zero or greater. FastAPI returned a 422 status code with a detailed list (type, location, message and the input we sent), while DRF returned a 400 status code with a simpler list of messages for each field.
-
-Validation also caught a real problem in our data: our first FastAPI test returned a 500 error because four territories (Abkhazia, Northern Cyprus, Somaliland and South Ossetia) have no country code and broke the code rule. We removed them from the data.
+In our project, both frameworks implemented the same validation rules: the country code had to consist of two uppercase letters, the name had to contain at least two characters, and the population had to be non-negative. However, their error responses differed. FastAPI returned a 422 status code with detailed information, including the error type, location, message, and input value. DRF returned a 400 status code with simpler, field-specific error messages.
 
 ## Question 3: When would you choose FastAPI or Django REST Framework?
 
