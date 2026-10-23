@@ -1,0 +1,4 @@
+- Python version I used: 3.12.2
+   - FastAPI app started: yes
+   - DRF app started: yes
+   - Problems I faced (and what fixed them): no problems faced.
