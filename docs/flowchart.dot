@@ -1,0 +1,64 @@
+digraph G {
+  graph [rankdir=TB, fontname="Inter", bgcolor="#ffffff", nodesep=0.35, ranksep=0.42, pad=0.3, splines=true, newrank=true];
+  node  [fontname="Inter", fontsize=11, shape=box, style="rounded,filled", fillcolor="#f3f4f6", color="#9ca3af", penwidth=1.2, margin="0.16,0.09"];
+  edge  [fontname="Inter", fontsize=10, color="#4b5563", arrowsize=0.8, penwidth=1.2];
+
+  // ---------- one-time setup ----------
+  subgraph cluster_setup {
+    label=<<B>A. One-time setup (before any request)</B>>; labeljust=l; fontname="Inter"; fontsize=12;
+    style="rounded,dashed"; color="#9ca3af"; margin=14;
+    api  [label=<REST Countries API v5<BR/><FONT POINT-SIZE="9" COLOR="#52514e">needs a free API key, stored in .env</FONT>>, fillcolor="#e8eefc", color="#2a78d6"];
+    fetch[label=<shared/fetch_countries.py<BR/><FONT POINT-SIZE="9" COLOR="#52514e">fetches 100 countries per page,<BR/>skips territories with no ISO code</FONT>>];
+    json [label=<shared/countries.json<BR/><FONT POINT-SIZE="9" COLOR="#52514e">250 clean country records (cached)</FONT>>, fillcolor="#e8eefc", color="#2a78d6"];
+    mem  [label=<Both servers load the file once at start-up<BR/><FONT POINT-SIZE="9" COLOR="#52514e">into an in-memory list (no database)</FONT>>];
+    api -> fetch -> json -> mem;
+  }
+
+  // ---------- runtime ----------
+  subgraph cluster_run {
+    label=<<B>B. What happens to every request</B>>; labeljust=l; fontname="Inter"; fontsize=12;
+    style="rounded,dashed"; color="#9ca3af"; margin=14;
+
+    client [label=<<B>Client sends an HTTP request</B><BR/><FONT POINT-SIZE="9" COLOR="#52514e">Swagger docs page, browser, or Locust</FONT>>, fillcolor="#fff4d6", color="#c98500"];
+    server [label=<Web server receives it<BR/><FONT POINT-SIZE="9" COLOR="#52514e"><B>FastAPI:</B> uvicorn     <B>DRF:</B> waitress or uvicorn</FONT>>];
+    router [label=<Router matches the URL and method<BR/><FONT POINT-SIZE="9" COLOR="#52514e"><B>FastAPI:</B> @app.get / @app.post<BR/><B>DRF:</B> urls.py, then an APIView class</FONT>>];
+    which  [label="Which request?", shape=diamond, style="filled", fillcolor="#fff4d6", color="#c98500", margin="0.05,0.05"];
+
+    list   [label=<<B>GET /countries</B><BR/>filter by ?region and ?search>];
+    one    [label=<<B>GET /countries/{code}</B><BR/>look the code up in the list>];
+    post   [label=<<B>POST /countries</B><BR/>body must be valid>];
+
+    serl   [label=<Convert records to JSON<BR/><FONT POINT-SIZE="9" COLOR="#52514e"><B>FastAPI:</B> Pydantic     <B>DRF:</B> serializer</FONT>>];
+    found  [label="Code found?", shape=diamond, style="filled", fillcolor="#fff4d6", color="#c98500", margin="0.05,0.05"];
+    valid  [label=<Validate the data<BR/><FONT POINT-SIZE="9" COLOR="#52514e"><B>FastAPI:</B> Pydantic model<BR/><B>DRF:</B> CountrySerializer</FONT>>, shape=diamond, style="filled", fillcolor="#fff4d6", color="#c98500", margin="0.0,0.0"];
+    dup    [label="Code already\nin list?", shape=diamond, style="filled", fillcolor="#fff4d6", color="#c98500", margin="0.0,0.0"];
+
+    ok200  [label=<<B>200 OK</B><BR/>JSON data returned>, fillcolor="#e3f5ec", color="#1a8f5f"];
+    ok200b [label=<<B>200 OK</B><BR/>country returned>, fillcolor="#e3f5ec", color="#1a8f5f"];
+    ok201  [label=<<B>201 Created</B><BR/>country added to the list>, fillcolor="#e3f5ec", color="#1a8f5f"];
+    e404   [label=<<B>404 Not Found</B><BR/>"Country not found">, fillcolor="#fde8e8", color="#c0392b"];
+    ebad   [label=<<B>Error listing the wrong fields</B><BR/><FONT POINT-SIZE="9"><B>FastAPI: 422</B>     <B>DRF: 400</B></FONT>>, fillcolor="#fde8e8", color="#c0392b"];
+    e409   [label=<<B>409 Conflict</B><BR/>"Country code already exists">, fillcolor="#fde8e8", color="#c0392b"];
+
+    back   [label=<<B>Response goes back to the client</B>>, fillcolor="#fff4d6", color="#c98500"];
+
+    client -> server -> router -> which;
+    which -> list [label=" GET list"];
+    which -> one  [label=" GET one"];
+    which -> post [label=" POST"];
+
+    list -> serl -> ok200;
+    one -> found;
+    found -> ok200b [label=" yes"];
+    found -> e404   [label=" no"];
+    post -> valid;
+    valid -> ebad [label=" no"];
+    valid -> dup  [label=" yes"];
+    dup -> e409  [label=" yes"];
+    dup -> ok201 [label=" no"];
+
+    ok200 -> back; ok200b -> back; ok201 -> back; e404 -> back; ebad -> back; e409 -> back;
+  }
+
+  mem -> client [style=dashed, color="#9ca3af", constraint=true, label=" data ready"];
+}
