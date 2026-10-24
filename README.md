@@ -1,6 +1,6 @@
 # Django REST Framework vs FastAPI
 
-**IMAP group project, Topic 7.** We built the *same small countries API* twice, once with Django REST Framework (DRF) and once with FastAPI, and compared code size, speed, validation and auto-generated docs.
+We built the *same small countries API* twice, once with Django REST Framework (DRF) and once with FastAPI, and compared code size, speed, validation and auto-generated docs.
 
 Data source: [REST Countries API](https://restcountries.com) (v5).
 
@@ -174,6 +174,3 @@ Our numbers come from one laptop and one test setup, so they compare the two fra
 
 In short: if a project needs a database, an admin panel and login out of the box, choose DRF. If it is a small, fast API, choose FastAPI.
 
-## AI tools
-
-We used AI tools to learn and to speed up setup, as the project guidelines allow. Every member can explain every part of what is submitted.
