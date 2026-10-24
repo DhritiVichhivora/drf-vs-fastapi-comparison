@@ -138,6 +138,8 @@ We sent the same invalid body to both apps: `{"code": "xx1", "name": "T", "regio
 | ![FastAPI docs](docs/fastapi_docs_page.png) | ![DRF GET /countries](docs/drf_get_countries_form.png) |
 
 More screenshots (200, 404 and 400 responses for both apps) are in the [docs](docs/) folder.
+<img width="781" height="397" alt="image" src="https://github.com/user-attachments/assets/bffd327e-5dba-4bef-9f12-da6734690d22" />
+
 
 ## Challenges we faced
 
